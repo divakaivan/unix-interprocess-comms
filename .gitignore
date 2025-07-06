@@ -1,0 +1,21 @@
+# Object files
+*.o
+
+# Compiled binary executables
+*.out
+*.exe
+*.bin
+
+# Static and shared libraries
+*.a
+*.so
+
+# GDB and debugging
+*.dSYM/
+*.gch
+
+# Editor/OS junk (optional but common)
+*~
+*.swp
+.DS_Store
+
